@@ -1,0 +1,2 @@
+- after successful login, the app redirects to the user's profile
+- the user profile page shows the data related to the user that logged in
